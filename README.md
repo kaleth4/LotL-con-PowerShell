@@ -16,6 +16,9 @@ En este repositorio, exploramos **one-liners** reales usados en hacking ofensivo
 ```powershell
 Powershell -Command "Invoke-WebRequest 'https://ejemplo.com/hero-image.png' -OutFile matrix.png"
 ```
+
+<img width="687" height="174" alt="image" src="https://github.com/user-attachments/assets/f0913fa4-5cc8-4db7-a6e5-1a7d68b1864e" />
+
 🔹 **Propósito**:
 - Verificar si la máquina tiene salida a internet.
 - "Limpiar" el historial con una descarga aparentemente inofensiva (ej: imagen).
